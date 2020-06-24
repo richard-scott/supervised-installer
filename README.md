@@ -1,4 +1,4 @@
-# This install method has been deprecated.
+# This install method has been (sort of) deprecated.
 
 ## https://www.home-assistant.io/blog/2020/05/09/deprecating-home-assistant-supervised-on-generic-linux/
 
@@ -39,7 +39,7 @@ network-manager
 Run as root (sudo su):
 
 ```bash
-curl -sL https://raw.githubusercontent.com/home-assistant/supervised-installer/master/installer.sh | bash -s
+curl -sL https://raw.githubusercontent.com/uherting/supervised-installer/master/installer.sh| bash -s
 ```
 
 ### Command line arguments
